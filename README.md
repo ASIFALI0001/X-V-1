@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>📱 Responsive Social Media Web App</h1>
-</p>
+<h1 align="center">📱 Responsive Social Media Web App</h1>
 
 <p align="center">
   A modern, responsive social media-inspired web application featuring a sleek dark theme, interactive mobile sidebars, and a dynamic feed with images and videos. Built with <strong>HTML</strong>, <strong>Tailwind CSS</strong>, and <strong>JavaScript</strong>, it showcases modern UI/UX design and responsive behavior across devices.
